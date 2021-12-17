@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["career"],{6990:function(e,n,r){"use strict";r.r(n);var c=r("7a23"),a={class:"career"},s=Object(c["e"])("h1",null,"This is an career page",-1),t=[s];function i(e,n){return Object(c["p"])(),Object(c["d"])("div",a,t)}var d=r("6b0d"),o=r.n(d);const p={},u=o()(p,[["render",i]]);n["default"]=u}}]);
+//# sourceMappingURL=career.5374b6ae.js.map
